@@ -1,5 +1,7 @@
 # Learning Algorithms in JavaScript from Scratch
 
+<!-- https://www.udemy.com/course/learning-algorithms-in-javascript-from-scratch -->
+
 ## .split()
 
 - lecture12
@@ -42,7 +44,7 @@
 
 ## .slice()
 
--lecture63
+- lecture63
 
 ## .shift()
 
